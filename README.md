@@ -4,7 +4,7 @@ An IoT Project
 
 ## Overview
 
-This Arduino code is for a simple obstacle-avoiding robot using an HC-SR04 ultrasonic sensor for distance measurement and a servo motor for scanning. The robot moves forward until an obstacle is detected, at which point it stops, scans its surroundings, moves backwards, turns left, and then resumes forward movement.
+This Arduino code is for a simple obstacle-avoiding robot that uses an HC-SR04 ultrasonic sensor to measure distance and a servo motor to scan. The robot moves forward until it detects an obstacle, at which point it stops, scans its surroundings, moves backwards, turns left, and resumes forward movement.
 
 ## Hardware Requirements
 
